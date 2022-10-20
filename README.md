@@ -1,2 +1,1 @@
-# Hackathon_sample
-This is one of my hackathon group project,
+# Hacksprint_PS2_Sed-Wizards
